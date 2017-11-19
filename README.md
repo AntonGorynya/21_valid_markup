@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+source of the site of Real Estate Agency.
+Site is published at https://antongorynya.github.io/21_valid_markup/
 
 # Project Goals
 
